@@ -20,9 +20,12 @@ This is my collection about generative AI
 6. Improve Mathematical Reasoning in Language Models by Automated Process Supervision, Jun 2024
       https://arxiv.org/abs/2406.06592
 
-7. Building Math Agents with Multi-Turn Iterative Preference Learning, Sep 2024
+7. Recursive Introspection: Teaching Language Model Agents How to Self-Improve, July 2024
+      https://arxiv.org/abs/2407.18219
+
+8. Building Math Agents with Multi-Turn Iterative Preference Learning, Sep 2024
       https://www.arxiv.org/abs/2409.02392
 
-8. Training Language Models to Self-Correct via Reinforcement Learning, Sep 2024
+9. Training Language Models to Self-Correct via Reinforcement Learning, Sep 2024
      https://arxiv.org/abs/2409.12917
    
