@@ -26,9 +26,12 @@ This is my collection about generative AI
 8. Recursive Introspection: Teaching Language Model Agents How to Self-Improve, July 2024
       https://arxiv.org/abs/2407.18219
 
-9. Building Math Agents with Multi-Turn Iterative Preference Learning, Sep 2024
+9. Scaling LLM Test-Time Compute Optimally canbe More Effective than Scaling Model Parameters, Aug 2024
+      https://arxiv.org/pdf/2408.03314v1
+
+11. Building Math Agents with Multi-Turn Iterative Preference Learning, Sep 2024
       https://www.arxiv.org/abs/2409.02392
 
-10. Training Language Models to Self-Correct via Reinforcement Learning, Sep 2024
+12. Training Language Models to Self-Correct via Reinforcement Learning, Sep 2024
      https://arxiv.org/abs/2409.12917
    
