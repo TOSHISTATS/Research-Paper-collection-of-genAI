@@ -16,16 +16,19 @@ This is my collection about generative AI
 
 5. Chain of Thought Empowers Transformers to Solve Inherently Serial Problems, Feb 2024   
       https://arxiv.org/abs/2402.12875
-      
-6. Improve Mathematical Reasoning in Language Models by Automated Process Supervision, Jun 2024
+
+6. Chain-of-Thought Reasoning without Prompting, May 2024
+      https://arxiv.org/pdf/2402.10200
+           
+7. Improve Mathematical Reasoning in Language Models by Automated Process Supervision, Jun 2024
       https://arxiv.org/abs/2406.06592
 
-7. Recursive Introspection: Teaching Language Model Agents How to Self-Improve, July 2024
+8. Recursive Introspection: Teaching Language Model Agents How to Self-Improve, July 2024
       https://arxiv.org/abs/2407.18219
 
-8. Building Math Agents with Multi-Turn Iterative Preference Learning, Sep 2024
+9. Building Math Agents with Multi-Turn Iterative Preference Learning, Sep 2024
       https://www.arxiv.org/abs/2409.02392
 
-9. Training Language Models to Self-Correct via Reinforcement Learning, Sep 2024
+10. Training Language Models to Self-Correct via Reinforcement Learning, Sep 2024
      https://arxiv.org/abs/2409.12917
    
